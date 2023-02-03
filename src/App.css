@@ -1,0 +1,14 @@
+.from{
+    padding: 10px 60px;
+    border-radius: 20px;
+    border: none ;
+    background: rgb(198, 191, 191);
+    box-shadow: 3px 3px 3px;
+}
+.get{
+color: aqua;
+}
+.go{
+    padding: 10px 30px;
+    margin-top: 20px;
+}
